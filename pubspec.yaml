@@ -1,6 +1,3 @@
-name: Mahar Movers
-description: Mahar Basheer Movers
-
 environment:
   sdk: ">=3.13.0 <4.0.0"
 dependencies:
